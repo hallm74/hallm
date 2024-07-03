@@ -18,4 +18,3 @@ baseurl:
 url: http://hallm.siteleaf.net
 twitter_username: hallm
 markdown: kramdown
-theme: jekyll-theme-tactile
