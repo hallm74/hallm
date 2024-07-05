@@ -3,8 +3,10 @@ title: NYT editorial on the debate.
 date: 2024-06-29 22:57:00 -05:00
 categories:
 - politics
+- presidency
 tags:
 - politics
+- biden
 ---
 
 Hate to say it but he’s right. At this point he’s just giving Trump the election. 
